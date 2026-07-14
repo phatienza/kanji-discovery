@@ -9,3 +9,5 @@
 - 2026-07-15: Treat 東 as found/irregular in the N5 draft instead of crafting 日 + 木 because that visual split is not a trustworthy etymology; preserve the scene-2 narrative payoff through 日本.
 - 2026-07-15: Rank common components by normalized KRADFILE occurrence across KANJIDIC2 grade 1-8 kanji, take the top 200, then union every part and recipe dependency used by World 1; the current output is 204 components.
 - 2026-07-15: Preserve source legacy levels on support kanji with the explicit mapping 3 to N4, 2 to N2, and 1 to N1; do not invent an N3 classification from a source that predates the modern five-level JLPT.
+- 2026-07-15: Use `main` for reviewed milestones and `develop` for incoming work so the solo maintainer can practice pull-request review before merging.
+- 2026-07-15: License original project code and documentation under MIT while retaining the applicable EDRDG CC BY-SA 4.0 and KanjiVG CC BY-SA 3.0 terms for derived data and copied assets.
