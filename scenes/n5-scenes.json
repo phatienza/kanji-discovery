@@ -1,0 +1,83 @@
+{
+  "scenes" : [ {
+    "id" : "sky",
+    "title" : "The sky",
+    "backdrop" : "sky.svg",
+    "find" : [ "日", "月", "一", "二", "三" ],
+    "craft" : [ "明" ],
+    "words" : [ "明日" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "mountain",
+    "title" : "The mountain",
+    "backdrop" : "mountain.svg",
+    "find" : [ "山", "木", "川", "東" ],
+    "craft" : [ "林", "森", "本" ],
+    "words" : [ "日本" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "people",
+    "title" : "People",
+    "backdrop" : "people.svg",
+    "find" : [ "人", "女", "子" ],
+    "craft" : [ "好", "休" ],
+    "words" : [ "女子", "休日" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "field",
+    "title" : "The field",
+    "backdrop" : "field.svg",
+    "find" : [ "田", "力", "口" ],
+    "craft" : [ "男" ],
+    "words" : [ "男女" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "water-fire",
+    "title" : "Water and fire",
+    "backdrop" : "water-fire.svg",
+    "find" : [ "水", "火", "雨", "天" ],
+    "craft" : [ ],
+    "words" : [ "火山" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "body",
+    "title" : "The body",
+    "backdrop" : "body.svg",
+    "find" : [ "目", "耳", "手", "足" ],
+    "craft" : [ "見" ],
+    "words" : [ ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "time",
+    "title" : "Time",
+    "backdrop" : "time.svg",
+    "find" : [ "門", "寺", "今" ],
+    "craft" : [ "間", "時" ],
+    "words" : [ "時間", "今日" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "school",
+    "title" : "School",
+    "backdrop" : "school.svg",
+    "find" : [ "言", "五", "学", "生", "舌" ],
+    "craft" : [ "吾", "語", "話" ],
+    "words" : [ "日本語" ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "town",
+    "title" : "The town",
+    "backdrop" : "town.svg",
+    "find" : [ "行", "来", "出", "入", "車", "駅", "店", "道" ],
+    "craft" : [ ],
+    "words" : [ ],
+    "unlockThreshold" : 0.7
+  }, {
+    "id" : "numbers-counters",
+    "title" : "Numbers and counters",
+    "backdrop" : "numbers-counters.svg",
+    "find" : [ "安", "飲", "右", "円", "下", "何", "花", "会", "外", "気", "魚", "金", "九", "空", "古", "午", "後", "校", "高", "国", "左", "四", "七", "社", "週", "十", "書", "小", "少", "上", "食", "新", "西", "先", "千", "前", "多", "大", "中", "長", "電", "土", "読", "南", "年", "買", "白", "八", "半", "百", "父", "分", "聞", "母", "北", "毎", "万", "名", "友", "立", "六" ],
+    "craft" : [ ],
+    "words" : [ "学校", "先生", "毎日", "友人", "電車" ],
+    "unlockThreshold" : 0.7
+  } ]
+}

@@ -1,0 +1,14 @@
+kanji	recipe	status	note
+明	日,月	CONFIRMED	Required Phase 1 spot-check
+林	木,木	CONFIRMED	Required Phase 1 spot-check; KRADFILE records component presence but not multiplicity
+森	林,木	CONFIRMED	Uses the largest already-learnable sub-kanji
+本	木,一	CONFIRMED	Tree plus base mark
+好	女,子	CONFIRMED	Required Phase 1 spot-check
+休	人,木	CONFIRMED	Required Phase 1 spot-check after 化 to 人 normalization
+男	田,力	CONFIRMED	Required Phase 1 spot-check
+見	目,人	TODO	Uses the person/legs interpretation of 儿; owner review required
+間	門,日	CONFIRMED	Door/gate plus sun
+時	日,寺	CONFIRMED	Uses nested 寺 instead of flattened 土 plus 寸
+吾	五,口	TODO	Support recipe added so 語 can use a two-part nested recipe
+語	言,吾	TODO	Support dependency 吾 is not itself in the draft N5 target set
+話	言,舌	TODO	Support component 舌 is found in the school scene

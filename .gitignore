@@ -1,0 +1,4 @@
+.m2/
+**/target/
+data/raw/
+.DS_Store

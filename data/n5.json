@@ -1,0 +1,2330 @@
+{
+  "components" : [ {
+    "char" : "一",
+    "meaning" : "one, one radical (no.1)",
+    "on" : "イチ, イツ",
+    "kun" : "ひと-, ひと.つ",
+    "strokes" : 1
+  }, {
+    "char" : "口",
+    "meaning" : "mouth",
+    "on" : "コウ, ク",
+    "kun" : "くち",
+    "strokes" : 3
+  }, {
+    "char" : "人",
+    "meaning" : "person",
+    "on" : "ジン, ニン",
+    "kun" : "ひと, -り",
+    "strokes" : 2
+  }, {
+    "char" : "ノ",
+    "meaning" : "",
+    "on" : "",
+    "kun" : "",
+    "strokes" : 0
+  }, {
+    "char" : "｜",
+    "meaning" : "",
+    "on" : "",
+    "kun" : "",
+    "strokes" : 0
+  }, {
+    "char" : "日",
+    "meaning" : "day, sun",
+    "on" : "ニチ, ジツ",
+    "kun" : "ひ, -び",
+    "strokes" : 4
+  }, {
+    "char" : "ハ",
+    "meaning" : "",
+    "on" : "",
+    "kun" : "",
+    "strokes" : 0
+  }, {
+    "char" : "二",
+    "meaning" : "two, two radical (no. 7)",
+    "on" : "ニ, ジ",
+    "kun" : "ふた, ふた.つ",
+    "strokes" : 2
+  }, {
+    "char" : "小",
+    "meaning" : "little, small",
+    "on" : "ショウ",
+    "kun" : "ちい.さい, こ-",
+    "strokes" : 3
+  }, {
+    "char" : "木",
+    "meaning" : "tree, wood",
+    "on" : "ボク, モク",
+    "kun" : "き, こ-",
+    "strokes" : 4
+  }, {
+    "char" : "土",
+    "meaning" : "soil, earth",
+    "on" : "ド, ト",
+    "kun" : "つち",
+    "strokes" : 3
+  }, {
+    "char" : "亠",
+    "meaning" : "kettle lid radical (no. 8)",
+    "on" : "トウ",
+    "kun" : "",
+    "strokes" : 2
+  }, {
+    "char" : "水",
+    "meaning" : "water",
+    "on" : "スイ",
+    "kun" : "みず, みず-",
+    "strokes" : 4
+  }, {
+    "char" : "并",
+    "meaning" : "put together",
+    "on" : "ヘイ, ヒョウ",
+    "kun" : "あわ.せる, なら.ぶ",
+    "strokes" : 6
+  }, {
+    "char" : "十",
+    "meaning" : "ten",
+    "on" : "ジュウ, ジッ",
+    "kun" : "とお, と",
+    "strokes" : 2
+  }, {
+    "char" : "目",
+    "meaning" : "eye, class",
+    "on" : "モク, ボク",
+    "kun" : "め, -め",
+    "strokes" : 5
+  }, {
+    "char" : "乞",
+    "meaning" : "beg, invite",
+    "on" : "コツ, キツ",
+    "kun" : "こ.う",
+    "strokes" : 3
+  }, {
+    "char" : "田",
+    "meaning" : "rice field, rice paddy",
+    "on" : "デン",
+    "kun" : "た",
+    "strokes" : 5
+  }, {
+    "char" : "丶",
+    "meaning" : "dot, tick or dot radical (no. 3)",
+    "on" : "チュ",
+    "kun" : "",
+    "strokes" : 1
+  }, {
+    "char" : "手",
+    "meaning" : "hand",
+    "on" : "シュ, ズ",
+    "kun" : "て, て-",
+    "strokes" : 4
+  }, {
+    "char" : "月",
+    "meaning" : "month, moon",
+    "on" : "ゲツ, ガツ",
+    "kun" : "つき",
+    "strokes" : 4
+  }, {
+    "char" : "大",
+    "meaning" : "large, big",
+    "on" : "ダイ, タイ",
+    "kun" : "おお-, おお.きい",
+    "strokes" : 3
+  }, {
+    "char" : "心",
+    "meaning" : "heart, mind",
+    "on" : "シン",
+    "kun" : "こころ, -ごころ",
+    "strokes" : 4
+  }, {
+    "char" : "又",
+    "meaning" : "or again, furthermore",
+    "on" : "ユウ",
+    "kun" : "また, また-",
+    "strokes" : 2
+  }, {
+    "char" : "幺",
+    "meaning" : "short thread radical (no. 52)",
+    "on" : "ヨウ",
+    "kun" : "ちいさい",
+    "strokes" : 3
+  }, {
+    "char" : "草",
+    "meaning" : "grass, weeds",
+    "on" : "ソウ",
+    "kun" : "くさ, くさ-",
+    "strokes" : 9
+  }, {
+    "char" : "貝",
+    "meaning" : "shellfish",
+    "on" : "バイ",
+    "kun" : "かい",
+    "strokes" : 7
+  }, {
+    "char" : "刀",
+    "meaning" : "sword, saber",
+    "on" : "トウ",
+    "kun" : "かたな, そり",
+    "strokes" : 2
+  }, {
+    "char" : "厶",
+    "meaning" : "I, myself",
+    "on" : "シ, ボウ",
+    "kun" : "わたくし, ござ.る",
+    "strokes" : 2
+  }, {
+    "char" : "宀",
+    "meaning" : "shaped crown, katakana u radical (no. 40)",
+    "on" : "ベン, メン",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "冂",
+    "meaning" : "upside-down box radical (no. 13)",
+    "on" : "キョウ, ケイ",
+    "kun" : "",
+    "strokes" : 2
+  }, {
+    "char" : "王",
+    "meaning" : "king, rule",
+    "on" : "オウ, -ノウ",
+    "kun" : "",
+    "strokes" : 4
+  }, {
+    "char" : "个",
+    "meaning" : "counter for articles, individual",
+    "on" : "カ, コ",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "勹",
+    "meaning" : "wrapping enclosure, wrapping radical (no. 20)",
+    "on" : "ホウ",
+    "kun" : "つつ.む",
+    "strokes" : 2
+  }, {
+    "char" : "言",
+    "meaning" : "say, word",
+    "on" : "ゲン, ゴン",
+    "kun" : "い.う, こと",
+    "strokes" : 7
+  }, {
+    "char" : "糸",
+    "meaning" : "thread",
+    "on" : "シ",
+    "kun" : "いと",
+    "strokes" : 6
+  }, {
+    "char" : "冖",
+    "meaning" : "wa-shaped crown radical (no. 14)",
+    "on" : "ベキ",
+    "kun" : "",
+    "strokes" : 2
+  }, {
+    "char" : "火",
+    "meaning" : "fire",
+    "on" : "カ",
+    "kun" : "ひ, -び",
+    "strokes" : 4
+  }, {
+    "char" : "立",
+    "meaning" : "stand up, rise",
+    "on" : "リツ, リュウ",
+    "kun" : "た.つ, -た.つ",
+    "strokes" : 5
+  }, {
+    "char" : "亅",
+    "meaning" : "feathered stick, barb radical (no. 6)",
+    "on" : "ケツ",
+    "kun" : "かぎ",
+    "strokes" : 1
+  }, {
+    "char" : "尸",
+    "meaning" : "corpse, remains",
+    "on" : "シ",
+    "kun" : "かたしろ",
+    "strokes" : 3
+  }, {
+    "char" : "辵",
+    "meaning" : "walk, walking",
+    "on" : "チャク",
+    "kun" : "",
+    "strokes" : 7
+  }, {
+    "char" : "匕",
+    "meaning" : "spoon, spoon or katakana hi radical (no. 21)",
+    "on" : "ヒ",
+    "kun" : "さじ",
+    "strokes" : 2
+  }, {
+    "char" : "厂",
+    "meaning" : "wild goose, trailing cliff radical (no. 27)",
+    "on" : "カン",
+    "kun" : "かりがね",
+    "strokes" : 2
+  }, {
+    "char" : "女",
+    "meaning" : "woman, female",
+    "on" : "ジョ, ニョ",
+    "kun" : "おんな, め",
+    "strokes" : 3
+  }, {
+    "char" : "戈",
+    "meaning" : "halberd, arms",
+    "on" : "カ",
+    "kun" : "ほこ, ほこづくり",
+    "strokes" : 4
+  }, {
+    "char" : "夂",
+    "meaning" : "late, delayed",
+    "on" : "チ",
+    "kun" : "しゅう",
+    "strokes" : 3
+  }, {
+    "char" : "寸",
+    "meaning" : "measurement, tenth of a shaku",
+    "on" : "スン",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "攵",
+    "meaning" : "strike, hit",
+    "on" : "ホク",
+    "kun" : "",
+    "strokes" : 4
+  }, {
+    "char" : "衣",
+    "meaning" : "garment, clothes",
+    "on" : "イ, エ",
+    "kun" : "ころも, きぬ",
+    "strokes" : 6
+  }, {
+    "char" : "ヨ",
+    "meaning" : "",
+    "on" : "",
+    "kun" : "",
+    "strokes" : 0
+  }, {
+    "char" : "止",
+    "meaning" : "stop, halt",
+    "on" : "シ",
+    "kun" : "と.まる, -ど.まり",
+    "strokes" : 4
+  }, {
+    "char" : "禾",
+    "meaning" : "two-branch tree radical (no. 115)",
+    "on" : "カ",
+    "kun" : "いね",
+    "strokes" : 5
+  }, {
+    "char" : "隹",
+    "meaning" : "bird, old bird radical (no. 172)",
+    "on" : "サイ, スイ",
+    "kun" : "とり",
+    "strokes" : 8
+  }, {
+    "char" : "广",
+    "meaning" : "dotted cliff radical (no. 53)",
+    "on" : "ゲン",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "廾",
+    "meaning" : "twenty, twenty or letter H radical (no. 55)",
+    "on" : "キョウ, ク",
+    "kun" : "にじゅう",
+    "strokes" : 3
+  }, {
+    "char" : "巾",
+    "meaning" : "towel, hanging scroll",
+    "on" : "キン, フク",
+    "kun" : "おお.い, ちきり",
+    "strokes" : 3
+  }, {
+    "char" : "冫",
+    "meaning" : "two-stroke water radical or ice radical (no. 15)",
+    "on" : "ヒョウ",
+    "kun" : "こおり",
+    "strokes" : 2
+  }, {
+    "char" : "力",
+    "meaning" : "power, strength",
+    "on" : "リョク, リキ",
+    "kun" : "ちから",
+    "strokes" : 2
+  }, {
+    "char" : "山",
+    "meaning" : "mountain",
+    "on" : "サン, セン",
+    "kun" : "やま",
+    "strokes" : 3
+  }, {
+    "char" : "几",
+    "meaning" : "table, table enclosure",
+    "on" : "キ",
+    "kun" : "きにょう",
+    "strokes" : 2
+  }, {
+    "char" : "卜",
+    "meaning" : "divining, fortune-telling",
+    "on" : "ボク",
+    "kun" : "うらな.う, うらない",
+    "strokes" : 2
+  }, {
+    "char" : "示",
+    "meaning" : "show, indicate",
+    "on" : "ジ, シ",
+    "kun" : "しめ.す",
+    "strokes" : 5
+  }, {
+    "char" : "金",
+    "meaning" : "gold",
+    "on" : "キン, コン",
+    "kun" : "かね, かな-",
+    "strokes" : 8
+  }, {
+    "char" : "阜",
+    "meaning" : "hill, mound",
+    "on" : "フ, フウ",
+    "kun" : "",
+    "strokes" : 8
+  }, {
+    "char" : "彳",
+    "meaning" : "stop, linger",
+    "on" : "テキ",
+    "kun" : "たたず.む",
+    "strokes" : 3
+  }, {
+    "char" : "卩",
+    "meaning" : "seal radical (no. 26)",
+    "on" : "セツ",
+    "kun" : "わりふ",
+    "strokes" : 2
+  }, {
+    "char" : "斤",
+    "meaning" : "axe, 1.32 lb",
+    "on" : "キン",
+    "kun" : "",
+    "strokes" : 4
+  }, {
+    "char" : "白",
+    "meaning" : "white",
+    "on" : "ハク, ビャク",
+    "kun" : "しろ, しら-",
+    "strokes" : 5
+  }, {
+    "char" : "米",
+    "meaning" : "rice, USA",
+    "on" : "ベイ, マイ",
+    "kun" : "こめ, よね",
+    "strokes" : 6
+  }, {
+    "char" : "士",
+    "meaning" : "gentleman, scholar",
+    "on" : "シ",
+    "kun" : "さむらい",
+    "strokes" : 3
+  }, {
+    "char" : "爪",
+    "meaning" : "claw, nail",
+    "on" : "ソウ",
+    "kun" : "つめ, つま-",
+    "strokes" : 4
+  }, {
+    "char" : "凵",
+    "meaning" : "open box enclosure, open box radical (no. 17)",
+    "on" : "カン",
+    "kun" : "",
+    "strokes" : 2
+  }, {
+    "char" : "羊",
+    "meaning" : "sheep",
+    "on" : "ヨウ",
+    "kun" : "ひつじ",
+    "strokes" : 6
+  }, {
+    "char" : "艮",
+    "meaning" : "northeast (Oriental zodiac), stopping",
+    "on" : "コン, ゴン",
+    "kun" : "うしとら",
+    "strokes" : 6
+  }, {
+    "char" : "犬",
+    "meaning" : "dog",
+    "on" : "ケン",
+    "kun" : "いぬ, いぬ-",
+    "strokes" : 4
+  }, {
+    "char" : "竹",
+    "meaning" : "bamboo",
+    "on" : "チク",
+    "kun" : "たけ",
+    "strokes" : 6
+  }, {
+    "char" : "車",
+    "meaning" : "car",
+    "on" : "シャ",
+    "kun" : "くるま",
+    "strokes" : 7
+  }, {
+    "char" : "頁",
+    "meaning" : "page, leaf",
+    "on" : "ケツ",
+    "kun" : "ぺえじ, おおがい",
+    "strokes" : 9
+  }, {
+    "char" : "乙",
+    "meaning" : "the latter, duplicate",
+    "on" : "オツ, イツ",
+    "kun" : "おと-, きのと",
+    "strokes" : 1
+  }, {
+    "char" : "子",
+    "meaning" : "child, sign of the rat",
+    "on" : "シ, ス",
+    "kun" : "こ, -こ",
+    "strokes" : 3
+  }, {
+    "char" : "網",
+    "meaning" : "netting, network",
+    "on" : "モウ",
+    "kun" : "あみ",
+    "strokes" : 14
+  }, {
+    "char" : "囗",
+    "meaning" : "box, box or enclosure radical (no. 31)",
+    "on" : "イ, コク",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "矢",
+    "meaning" : "dart, arrow",
+    "on" : "シ",
+    "kun" : "や",
+    "strokes" : 5
+  }, {
+    "char" : "夕",
+    "meaning" : "evening",
+    "on" : "セキ",
+    "kun" : "ゆう",
+    "strokes" : 3
+  }, {
+    "char" : "工",
+    "meaning" : "craft, construction",
+    "on" : "コウ, ク",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "方",
+    "meaning" : "direction, person",
+    "on" : "ホウ",
+    "kun" : "かた, -かた",
+    "strokes" : 4
+  }, {
+    "char" : "已",
+    "meaning" : "stop, halt",
+    "on" : "イ",
+    "kun" : "や.む, すで.に",
+    "strokes" : 3
+  }, {
+    "char" : "干",
+    "meaning" : "dry, parch",
+    "on" : "カン",
+    "kun" : "ほ.す, ほ.し-",
+    "strokes" : 3
+  }, {
+    "char" : "欠",
+    "meaning" : "lack, gap",
+    "on" : "ケツ, ケン",
+    "kun" : "か.ける, か.く",
+    "strokes" : 4
+  }, {
+    "char" : "里",
+    "meaning" : "ri, village",
+    "on" : "リ",
+    "kun" : "さと",
+    "strokes" : 7
+  }, {
+    "char" : "殳",
+    "meaning" : "pike, windy-again radical (no. 79)",
+    "on" : "シュ",
+    "kun" : "また, ほこ",
+    "strokes" : 4
+  }, {
+    "char" : "皿",
+    "meaning" : "dish, a helping",
+    "on" : "ベイ",
+    "kun" : "さら",
+    "strokes" : 5
+  }, {
+    "char" : "石",
+    "meaning" : "stone",
+    "on" : "セキ, シャク",
+    "kun" : "いし",
+    "strokes" : 5
+  }, {
+    "char" : "酉",
+    "meaning" : "west, bird",
+    "on" : "ユウ",
+    "kun" : "とり",
+    "strokes" : 7
+  }, {
+    "char" : "九",
+    "meaning" : "nine",
+    "on" : "キュウ, ク",
+    "kun" : "ここの, ここの.つ",
+    "strokes" : 2
+  }, {
+    "char" : "匚",
+    "meaning" : "box-on-side enclosure radical (no. 22)",
+    "on" : "ホウ",
+    "kun" : "",
+    "strokes" : 2
+  }, {
+    "char" : "弓",
+    "meaning" : "bow, bow (archery, violin)",
+    "on" : "キュウ",
+    "kun" : "ゆみ",
+    "strokes" : 3
+  }, {
+    "char" : "彡",
+    "meaning" : "three, hair ornament",
+    "on" : "サン, セン",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "疔",
+    "meaning" : "carbuncle",
+    "on" : "テイ, チョウ",
+    "kun" : "",
+    "strokes" : 7
+  }, {
+    "char" : "虫",
+    "meaning" : "insect, bug",
+    "on" : "チュウ, キ",
+    "kun" : "むし",
+    "strokes" : 6
+  }, {
+    "char" : "音",
+    "meaning" : "sound, noise",
+    "on" : "オン, イン",
+    "kun" : "おと, ね",
+    "strokes" : 9
+  }, {
+    "char" : "牛",
+    "meaning" : "cow",
+    "on" : "ギュウ",
+    "kun" : "うし",
+    "strokes" : 4
+  }, {
+    "char" : "疋",
+    "meaning" : "head, counter for animals",
+    "on" : "ヒキ, ショ",
+    "kun" : "あし",
+    "strokes" : 5
+  }, {
+    "char" : "老",
+    "meaning" : "old man, old age",
+    "on" : "ロウ",
+    "kun" : "お.いる, ふ.ける",
+    "strokes" : 6
+  }, {
+    "char" : "門",
+    "meaning" : "gate, counter for cannons",
+    "on" : "モン",
+    "kun" : "かど, と",
+    "strokes" : 8
+  }, {
+    "char" : "雨",
+    "meaning" : "rain",
+    "on" : "ウ",
+    "kun" : "あめ, あま-",
+    "strokes" : 8
+  }, {
+    "char" : "戸",
+    "meaning" : "door, counter for houses",
+    "on" : "コ",
+    "kun" : "と",
+    "strokes" : 4
+  }, {
+    "char" : "臣",
+    "meaning" : "retainer, subject",
+    "on" : "シン, ジン",
+    "kun" : "",
+    "strokes" : 7
+  }, {
+    "char" : "豕",
+    "meaning" : "pig, hog",
+    "on" : "シ",
+    "kun" : "",
+    "strokes" : 7
+  }, {
+    "char" : "辛",
+    "meaning" : "spicy, bitter",
+    "on" : "シン",
+    "kun" : "から.い, つら.い",
+    "strokes" : 7
+  }, {
+    "char" : "邑",
+    "meaning" : "village, rural community",
+    "on" : "ユウ",
+    "kun" : "むら",
+    "strokes" : 7
+  }, {
+    "char" : "マ",
+    "meaning" : "",
+    "on" : "",
+    "kun" : "",
+    "strokes" : 0
+  }, {
+    "char" : "甘",
+    "meaning" : "sweet, coax",
+    "on" : "カン",
+    "kun" : "あま.い, あま.える",
+    "strokes" : 5
+  }, {
+    "char" : "穴",
+    "meaning" : "hole, aperture",
+    "on" : "ケツ",
+    "kun" : "あな",
+    "strokes" : 5
+  }, {
+    "char" : "耳",
+    "meaning" : "ear",
+    "on" : "ジ",
+    "kun" : "みみ",
+    "strokes" : 6
+  }, {
+    "char" : "足",
+    "meaning" : "leg, foot",
+    "on" : "ソク",
+    "kun" : "あし, た.りる",
+    "strokes" : 7
+  }, {
+    "char" : "自",
+    "meaning" : "oneself",
+    "on" : "ジ, シ",
+    "kun" : "みずか.ら, おの.ずから",
+    "strokes" : 6
+  }, {
+    "char" : "豆",
+    "meaning" : "beans, pea",
+    "on" : "トウ, ズ",
+    "kun" : "まめ, まめ-",
+    "strokes" : 7
+  }, {
+    "char" : "馬",
+    "meaning" : "horse",
+    "on" : "バ",
+    "kun" : "うま, うま-",
+    "strokes" : 10
+  }, {
+    "char" : "毋",
+    "meaning" : "do not, must not",
+    "on" : "ブ, ム",
+    "kun" : "はは, ぼ",
+    "strokes" : 4
+  }, {
+    "char" : "比",
+    "meaning" : "compare, race",
+    "on" : "ヒ",
+    "kun" : "くら.べる",
+    "strokes" : 4
+  }, {
+    "char" : "用",
+    "meaning" : "utilize, business",
+    "on" : "ヨウ",
+    "kun" : "もち.いる",
+    "strokes" : 5
+  }, {
+    "char" : "西",
+    "meaning" : "west, Spain",
+    "on" : "セイ, サイ",
+    "kun" : "にし",
+    "strokes" : 6
+  }, {
+    "char" : "食",
+    "meaning" : "eat, food",
+    "on" : "ショク, ジキ",
+    "kun" : "く.う, く.らう",
+    "strokes" : 9
+  }, {
+    "char" : "井",
+    "meaning" : "well, well crib",
+    "on" : "セイ, ショウ",
+    "kun" : "い",
+    "strokes" : 4
+  }, {
+    "char" : "勿",
+    "meaning" : "not, must not",
+    "on" : "モチ, ブツ",
+    "kun" : "なか.れ, なし",
+    "strokes" : 4
+  }, {
+    "char" : "母",
+    "meaning" : "mother",
+    "on" : "ボ",
+    "kun" : "はは, も",
+    "strokes" : 5
+  }, {
+    "char" : "廴",
+    "meaning" : "long stride or stretching radical (no. 54)",
+    "on" : "イン",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "弋",
+    "meaning" : "piling, ceremony radical (no. 56)",
+    "on" : "ヨク",
+    "kun" : "いぐるみ",
+    "strokes" : 3
+  }, {
+    "char" : "歹",
+    "meaning" : "bare bone, bad",
+    "on" : "ガツ, ガチ",
+    "kun" : "",
+    "strokes" : 4
+  }, {
+    "char" : "爿",
+    "meaning" : "left-side kata radical (no. 90)",
+    "on" : "ショウ, ソウ",
+    "kun" : "",
+    "strokes" : 4
+  }, {
+    "char" : "舟",
+    "meaning" : "boat, ship",
+    "on" : "シュウ",
+    "kun" : "ふね, ふな-",
+    "strokes" : 6
+  }, {
+    "char" : "虍",
+    "meaning" : "tiger spots, mottled",
+    "on" : "コ",
+    "kun" : "",
+    "strokes" : 6
+  }, {
+    "char" : "亡",
+    "meaning" : "deceased, the late",
+    "on" : "ボウ, モウ",
+    "kun" : "な.い, な.き-",
+    "strokes" : 3
+  }, {
+    "char" : "川",
+    "meaning" : "stream, river",
+    "on" : "セン",
+    "kun" : "かわ",
+    "strokes" : 3
+  }, {
+    "char" : "文",
+    "meaning" : "sentence, literature",
+    "on" : "ブン, モン",
+    "kun" : "ふみ, あや",
+    "strokes" : 4
+  }, {
+    "char" : "氏",
+    "meaning" : "family name, surname",
+    "on" : "シ",
+    "kun" : "うじ, -うじ",
+    "strokes" : 4
+  }, {
+    "char" : "癶",
+    "meaning" : "dotted tent radical (no. 105)",
+    "on" : "ハツ",
+    "kun" : "",
+    "strokes" : 5
+  }, {
+    "char" : "禹",
+    "meaning" : "name of a Chinese emperor",
+    "on" : "ウ",
+    "kun" : "",
+    "strokes" : 9
+  }, {
+    "char" : "聿",
+    "meaning" : "brush, finally",
+    "on" : "イチ, イツ",
+    "kun" : "ふで, ここに",
+    "strokes" : 6
+  }, {
+    "char" : "至",
+    "meaning" : "climax, arrive",
+    "on" : "シ",
+    "kun" : "いた.る",
+    "strokes" : 6
+  }, {
+    "char" : "見",
+    "meaning" : "see, hopes",
+    "on" : "ケン",
+    "kun" : "み.る, み.える",
+    "strokes" : 7
+  }, {
+    "char" : "冊",
+    "meaning" : "tome, counter for books",
+    "on" : "サツ, サク",
+    "kun" : "ふみ",
+    "strokes" : 5
+  }, {
+    "char" : "父",
+    "meaning" : "father",
+    "on" : "フ",
+    "kun" : "ちち",
+    "strokes" : 4
+  }, {
+    "char" : "生",
+    "meaning" : "life, genuine",
+    "on" : "セイ, ショウ",
+    "kun" : "い.きる, い.かす",
+    "strokes" : 5
+  }, {
+    "char" : "皮",
+    "meaning" : "pelt, skin",
+    "on" : "ヒ",
+    "kun" : "かわ",
+    "strokes" : 5
+  }, {
+    "char" : "辰",
+    "meaning" : "sign of the dragon, 7-9AM",
+    "on" : "シン, ジン",
+    "kun" : "たつ",
+    "strokes" : 7
+  }, {
+    "char" : "ユ",
+    "meaning" : "",
+    "on" : "",
+    "kun" : "",
+    "strokes" : 0
+  }, {
+    "char" : "支",
+    "meaning" : "branch, support",
+    "on" : "シ",
+    "kun" : "ささ.える, つか.える",
+    "strokes" : 4
+  }, {
+    "char" : "牙",
+    "meaning" : "tusk, fang",
+    "on" : "ガ, ゲ",
+    "kun" : "きば, は",
+    "strokes" : 5
+  }, {
+    "char" : "羽",
+    "meaning" : "feathers, counter for birds, rabbits",
+    "on" : "ウ",
+    "kun" : "は, わ",
+    "strokes" : 6
+  }, {
+    "char" : "舌",
+    "meaning" : "tongue, reed",
+    "on" : "ゼツ",
+    "kun" : "した",
+    "strokes" : 6
+  }, {
+    "char" : "行",
+    "meaning" : "going, journey",
+    "on" : "コウ, ギョウ",
+    "kun" : "い.く, ゆ.く",
+    "strokes" : 6
+  }, {
+    "char" : "谷",
+    "meaning" : "valley",
+    "on" : "コク",
+    "kun" : "たに, きわ.まる",
+    "strokes" : 7
+  }, {
+    "char" : "走",
+    "meaning" : "run",
+    "on" : "ソウ",
+    "kun" : "はし.る",
+    "strokes" : 7
+  }, {
+    "char" : "隶",
+    "meaning" : "extend, give",
+    "on" : "タイ",
+    "kun" : "",
+    "strokes" : 8
+  }, {
+    "char" : "青",
+    "meaning" : "blue, green",
+    "on" : "セイ, ショウ",
+    "kun" : "あお, あお-",
+    "strokes" : 8
+  }, {
+    "char" : "非",
+    "meaning" : "un-, mistake",
+    "on" : "ヒ",
+    "kun" : "あら.ず",
+    "strokes" : 8
+  }, {
+    "char" : "乃",
+    "meaning" : "from, possessive particle",
+    "on" : "ナイ, ダイ",
+    "kun" : "の, すなわ.ち",
+    "strokes" : 2
+  }, {
+    "char" : "元",
+    "meaning" : "beginning, former time",
+    "on" : "ゲン, ガン",
+    "kun" : "もと",
+    "strokes" : 4
+  }, {
+    "char" : "品",
+    "meaning" : "goods, refinement",
+    "on" : "ヒン, ホン",
+    "kun" : "しな",
+    "strokes" : 9
+  }, {
+    "char" : "玄",
+    "meaning" : "mysterious, occultness",
+    "on" : "ゲン",
+    "kun" : "くろ, くろ.い",
+    "strokes" : 5
+  }, {
+    "char" : "釆",
+    "meaning" : "separate, divide",
+    "on" : "ハン, ベン",
+    "kun" : "と.る, いろどり",
+    "strokes" : 7
+  }, {
+    "char" : "韋",
+    "meaning" : "tanned leather radical (no. 178)",
+    "on" : "イ",
+    "kun" : "そむ.く",
+    "strokes" : 10
+  }, {
+    "char" : "鬼",
+    "meaning" : "ghost, devil",
+    "on" : "キ",
+    "kun" : "おに, おに-",
+    "strokes" : 10
+  }, {
+    "char" : "麻",
+    "meaning" : "hemp, flax",
+    "on" : "マ, マア",
+    "kun" : "あさ",
+    "strokes" : 11
+  }, {
+    "char" : "也",
+    "meaning" : "to be (classical)",
+    "on" : "ヤ, エ",
+    "kun" : "なり, か",
+    "strokes" : 3
+  }, {
+    "char" : "尢",
+    "meaning" : "crooked-big radical (no. 43)",
+    "on" : "オウ",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "斗",
+    "meaning" : "Big Dipper, ten sho (vol)",
+    "on" : "ト, トウ",
+    "kun" : "",
+    "strokes" : 4
+  }, {
+    "char" : "滴",
+    "meaning" : "drip, drop",
+    "on" : "テキ",
+    "kun" : "しずく, したた.る",
+    "strokes" : 14
+  }, {
+    "char" : "矛",
+    "meaning" : "halberd, arms",
+    "on" : "ム, ボウ",
+    "kun" : "ほこ",
+    "strokes" : 5
+  }, {
+    "char" : "而",
+    "meaning" : "and yet, and then",
+    "on" : "ジ, ニ",
+    "kun" : "しこ.うして, しか.して",
+    "strokes" : 6
+  }, {
+    "char" : "耒",
+    "meaning" : "come, plough",
+    "on" : "ライ, ルイ",
+    "kun" : "き, く",
+    "strokes" : 6
+  }, {
+    "char" : "舛",
+    "meaning" : "dancing radical (no. 136)",
+    "on" : "ブ, セン",
+    "kun" : "まい, そむ.く",
+    "strokes" : 6
+  }, {
+    "char" : "赤",
+    "meaning" : "red",
+    "on" : "セキ, シャク",
+    "kun" : "あか, あか-",
+    "strokes" : 7
+  }, {
+    "char" : "鳥",
+    "meaning" : "bird, chicken",
+    "on" : "チョウ",
+    "kun" : "とり",
+    "strokes" : 11
+  }, {
+    "char" : "免",
+    "meaning" : "excuse, dismissal",
+    "on" : "メン",
+    "kun" : "まぬか.れる, まぬが.れる",
+    "strokes" : 8
+  }, {
+    "char" : "及",
+    "meaning" : "reach out, exert",
+    "on" : "キュウ",
+    "kun" : "およ.ぶ, およ.び",
+    "strokes" : 3
+  }, {
+    "char" : "尤",
+    "meaning" : "reasonable, just",
+    "on" : "ユウ",
+    "kun" : "もっと.も, とが.める",
+    "strokes" : 4
+  }, {
+    "char" : "屮",
+    "meaning" : "left hand, old grass radical (no. 45)",
+    "on" : "テツ, サ",
+    "kun" : "ひだりて",
+    "strokes" : 3
+  }, {
+    "char" : "屯",
+    "meaning" : "barracks, police station",
+    "on" : "トン",
+    "kun" : "たむろ",
+    "strokes" : 4
+  }, {
+    "char" : "岡",
+    "meaning" : "mount, hill",
+    "on" : "コウ",
+    "kun" : "おか",
+    "strokes" : 8
+  }, {
+    "char" : "巛",
+    "meaning" : "curving river radical (no.47)",
+    "on" : "セン",
+    "kun" : "かわ",
+    "strokes" : 3
+  }, {
+    "char" : "巴",
+    "meaning" : "comma-design",
+    "on" : "ハ",
+    "kun" : "ともえ, うずまき",
+    "strokes" : 4
+  }, {
+    "char" : "斉",
+    "meaning" : "adjusted, alike",
+    "on" : "セイ, サイ",
+    "kun" : "そろ.う, ひと.しい",
+    "strokes" : 8
+  }, {
+    "char" : "臼",
+    "meaning" : "mortar",
+    "on" : "キュウ, グ",
+    "kun" : "うす, うすづ.く",
+    "strokes" : 6
+  }, {
+    "char" : "豸",
+    "meaning" : "snake, legless insect",
+    "on" : "タイ, チ",
+    "kun" : "",
+    "strokes" : 7
+  }, {
+    "char" : "身",
+    "meaning" : "somebody, person",
+    "on" : "シン",
+    "kun" : "み",
+    "strokes" : 7
+  }, {
+    "char" : "長",
+    "meaning" : "long, leader",
+    "on" : "チョウ",
+    "kun" : "なが.い, おさ",
+    "strokes" : 8
+  }, {
+    "char" : "骨",
+    "meaning" : "skeleton, bone",
+    "on" : "コツ",
+    "kun" : "ほね",
+    "strokes" : 10
+  }, {
+    "char" : "魚",
+    "meaning" : "fish",
+    "on" : "ギョ",
+    "kun" : "うお, さかな",
+    "strokes" : 11
+  }, {
+    "char" : "五",
+    "meaning" : "five",
+    "on" : "ゴ",
+    "kun" : "いつ, いつ.つ",
+    "strokes" : 4
+  }, {
+    "char" : "入",
+    "meaning" : "enter, insert",
+    "on" : "ニュウ, ジュ",
+    "kun" : "い.る, -い.る",
+    "strokes" : 2
+  }, {
+    "char" : "巨",
+    "meaning" : "gigantic, big",
+    "on" : "キョ",
+    "kun" : "",
+    "strokes" : 5
+  }, {
+    "char" : "彑",
+    "meaning" : "pig's head radical variant (no. 58)",
+    "on" : "ケイ",
+    "kun" : "",
+    "strokes" : 3
+  }, {
+    "char" : "毛",
+    "meaning" : "fur, hair",
+    "on" : "モウ",
+    "kun" : "け",
+    "strokes" : 4
+  }, {
+    "char" : "气",
+    "meaning" : "spirit, steam radical (no. 84)",
+    "on" : "キ, ケ",
+    "kun" : "いき",
+    "strokes" : 4
+  }, {
+    "char" : "瓜",
+    "meaning" : "melon",
+    "on" : "カ, ケ",
+    "kun" : "うり",
+    "strokes" : 6
+  }, {
+    "char" : "缶",
+    "meaning" : "tin can, container",
+    "on" : "カン",
+    "kun" : "かま",
+    "strokes" : 6
+  }, {
+    "char" : "首",
+    "meaning" : "neck, counter for songs and poems",
+    "on" : "シュ",
+    "kun" : "くび",
+    "strokes" : 9
+  }, {
+    "char" : "林",
+    "meaning" : "grove, forest",
+    "on" : "リン",
+    "kun" : "はやし",
+    "strokes" : 8
+  }, {
+    "char" : "吾",
+    "meaning" : "I, my",
+    "on" : "ゴ",
+    "kun" : "われ, わが-",
+    "strokes" : 7
+  }, {
+    "char" : "寺",
+    "meaning" : "Buddhist temple",
+    "on" : "ジ",
+    "kun" : "てら",
+    "strokes" : 6
+  } ],
+  "kanji" : [ {
+    "char" : "一",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "one, one radical (no.1)",
+    "on" : "イチ, イツ",
+    "kun" : "ひと-, ひと.つ",
+    "jlpt" : "N5",
+    "strokes" : 1
+  }, {
+    "char" : "七",
+    "parts" : [ "乙", "匕", "ノ" ],
+    "recipe" : null,
+    "meaning" : "seven",
+    "on" : "シチ",
+    "kun" : "なな, なな.つ",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "万",
+    "parts" : [ "｜", "ノ", "一" ],
+    "recipe" : null,
+    "meaning" : "ten thousand, 10,000",
+    "on" : "マン, バン",
+    "kun" : "よろず",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "三",
+    "parts" : [ "一", "二" ],
+    "recipe" : null,
+    "meaning" : "three",
+    "on" : "サン, ゾウ",
+    "kun" : "み, み.つ",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "上",
+    "parts" : [ "一", "卜" ],
+    "recipe" : null,
+    "meaning" : "above, up",
+    "on" : "ジョウ, ショウ",
+    "kun" : "うえ, -うえ",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "下",
+    "parts" : [ "｜", "一", "卜" ],
+    "recipe" : null,
+    "meaning" : "below, down",
+    "on" : "カ, ゲ",
+    "kun" : "した, しも",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "中",
+    "parts" : [ "｜", "口" ],
+    "recipe" : null,
+    "meaning" : "in, inside",
+    "on" : "チュウ",
+    "kun" : "なか, うち",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "九",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "nine",
+    "on" : "キュウ, ク",
+    "kun" : "ここの, ここの.つ",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "二",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "two, two radical (no. 7)",
+    "on" : "ニ, ジ",
+    "kun" : "ふた, ふた.つ",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "五",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "five",
+    "on" : "ゴ",
+    "kun" : "いつ, いつ.つ",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "人",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "person",
+    "on" : "ジン, ニン",
+    "kun" : "ひと, -り",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "今",
+    "parts" : [ "个", "一" ],
+    "recipe" : null,
+    "meaning" : "now",
+    "on" : "コン, キン",
+    "kun" : "いま",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "休",
+    "parts" : [ "人", "木" ],
+    "recipe" : [ "人", "木" ],
+    "meaning" : "rest, day off",
+    "on" : "キュウ",
+    "kun" : "やす.む, やす.まる",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "会",
+    "parts" : [ "二", "个", "厶" ],
+    "recipe" : null,
+    "meaning" : "meeting, meet",
+    "on" : "カイ, エ",
+    "kun" : "あ.う, あ.わせる",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "何",
+    "parts" : [ "人", "口", "亅", "一" ],
+    "recipe" : null,
+    "meaning" : "what",
+    "on" : "カ",
+    "kun" : "なに, なん",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "先",
+    "parts" : [ "ノ", "土", "人" ],
+    "recipe" : null,
+    "meaning" : "before, ahead",
+    "on" : "セン",
+    "kun" : "さき, ま.ず",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "入",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "enter, insert",
+    "on" : "ニュウ, ジュ",
+    "kun" : "い.る, -い.る",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "八",
+    "parts" : [ "ハ" ],
+    "recipe" : null,
+    "meaning" : "eight, eight radical (no. 12)",
+    "on" : "ハチ, ハツ",
+    "kun" : "や, や.つ",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "六",
+    "parts" : [ "ハ", "亠" ],
+    "recipe" : null,
+    "meaning" : "six",
+    "on" : "ロク, リク",
+    "kun" : "む, む.つ",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "円",
+    "parts" : [ "冂", "亠", "一", "｜" ],
+    "recipe" : null,
+    "meaning" : "circle, yen",
+    "on" : "エン",
+    "kun" : "まる.い, まる",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "出",
+    "parts" : [ "｜", "山", "凵" ],
+    "recipe" : null,
+    "meaning" : "exit, leave",
+    "on" : "シュツ, スイ",
+    "kun" : "で.る, -で",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "分",
+    "parts" : [ "刀", "ハ" ],
+    "recipe" : null,
+    "meaning" : "part, minute of time",
+    "on" : "ブン, フン",
+    "kun" : "わ.ける, わ.け",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "前",
+    "parts" : [ "一", "刀", "月", "并" ],
+    "recipe" : null,
+    "meaning" : "in front, before",
+    "on" : "ゼン",
+    "kun" : "まえ, -まえ",
+    "jlpt" : "N5",
+    "strokes" : 9
+  }, {
+    "char" : "力",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "power, strength",
+    "on" : "リョク, リキ",
+    "kun" : "ちから",
+    "jlpt" : "N4",
+    "strokes" : 2
+  }, {
+    "char" : "北",
+    "parts" : [ "匕", "爿" ],
+    "recipe" : null,
+    "meaning" : "north",
+    "on" : "ホク",
+    "kun" : "きた",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "十",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "ten",
+    "on" : "ジュウ, ジッ",
+    "kun" : "とお, と",
+    "jlpt" : "N5",
+    "strokes" : 2
+  }, {
+    "char" : "千",
+    "parts" : [ "ノ", "十" ],
+    "recipe" : null,
+    "meaning" : "thousand",
+    "on" : "セン",
+    "kun" : "ち",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "午",
+    "parts" : [ "ノ", "干", "十", "乞" ],
+    "recipe" : null,
+    "meaning" : "noon, sign of the horse",
+    "on" : "ゴ",
+    "kun" : "うま",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "半",
+    "parts" : [ "｜", "二", "并", "十" ],
+    "recipe" : null,
+    "meaning" : "half, middle",
+    "on" : "ハン",
+    "kun" : "なか.ば",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "南",
+    "parts" : [ "干", "十", "并", "冂" ],
+    "recipe" : null,
+    "meaning" : "south",
+    "on" : "ナン, ナ",
+    "kun" : "みなみ",
+    "jlpt" : "N5",
+    "strokes" : 9
+  }, {
+    "char" : "友",
+    "parts" : [ "ノ", "一", "又" ],
+    "recipe" : null,
+    "meaning" : "friend",
+    "on" : "ユウ",
+    "kun" : "とも",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "口",
+    "parts" : [ "囗" ],
+    "recipe" : null,
+    "meaning" : "mouth",
+    "on" : "コウ, ク",
+    "kun" : "くち",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "古",
+    "parts" : [ "口", "十" ],
+    "recipe" : null,
+    "meaning" : "old",
+    "on" : "コ",
+    "kun" : "ふる.い, ふる-",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "右",
+    "parts" : [ "ノ", "一", "口" ],
+    "recipe" : null,
+    "meaning" : "right",
+    "on" : "ウ, ユウ",
+    "kun" : "みぎ",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "名",
+    "parts" : [ "口", "夕" ],
+    "recipe" : null,
+    "meaning" : "name, noted",
+    "on" : "メイ, ミョウ",
+    "kun" : "な, -な",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "吾",
+    "parts" : [ "口", "五" ],
+    "recipe" : [ "五", "口" ],
+    "meaning" : "I, my",
+    "on" : "ゴ",
+    "kun" : "われ, わが-",
+    "jlpt" : "N1",
+    "strokes" : 7
+  }, {
+    "char" : "四",
+    "parts" : [ "人", "囗" ],
+    "recipe" : null,
+    "meaning" : "four",
+    "on" : "シ",
+    "kun" : "よ, よ.つ",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "国",
+    "parts" : [ "王", "囗", "丶" ],
+    "recipe" : null,
+    "meaning" : "country",
+    "on" : "コク",
+    "kun" : "くに",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "土",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "soil, earth",
+    "on" : "ド, ト",
+    "kun" : "つち",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "外",
+    "parts" : [ "卜", "夕" ],
+    "recipe" : null,
+    "meaning" : "outside",
+    "on" : "ガイ, ゲ",
+    "kun" : "そと, ほか",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "多",
+    "parts" : [ "夕" ],
+    "recipe" : null,
+    "meaning" : "many, frequent",
+    "on" : "タ",
+    "kun" : "おお.い, まさ.に",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "大",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "large, big",
+    "on" : "ダイ, タイ",
+    "kun" : "おお-, おお.きい",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "天",
+    "parts" : [ "一", "大", "二" ],
+    "recipe" : null,
+    "meaning" : "heavens, sky",
+    "on" : "テン",
+    "kun" : "あまつ, あめ",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "女",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "woman, female",
+    "on" : "ジョ, ニョ",
+    "kun" : "おんな, め",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "好",
+    "parts" : [ "子", "女" ],
+    "recipe" : [ "女", "子" ],
+    "meaning" : "fond, pleasing",
+    "on" : "コウ",
+    "kun" : "この.む, す.く",
+    "jlpt" : "N4",
+    "strokes" : 6
+  }, {
+    "char" : "子",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "child, sign of the rat",
+    "on" : "シ, ス",
+    "kun" : "こ, -こ",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "学",
+    "parts" : [ "子", "小", "冖" ],
+    "recipe" : null,
+    "meaning" : "study, learning",
+    "on" : "ガク",
+    "kun" : "まな.ぶ",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "安",
+    "parts" : [ "女", "宀" ],
+    "recipe" : null,
+    "meaning" : "relax, cheap",
+    "on" : "アン",
+    "kun" : "やす.い, やす.まる",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "寺",
+    "parts" : [ "寸", "土" ],
+    "recipe" : null,
+    "meaning" : "Buddhist temple",
+    "on" : "ジ",
+    "kun" : "てら",
+    "jlpt" : "N2",
+    "strokes" : 6
+  }, {
+    "char" : "小",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "little, small",
+    "on" : "ショウ",
+    "kun" : "ちい.さい, こ-",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "少",
+    "parts" : [ "ノ", "小" ],
+    "recipe" : null,
+    "meaning" : "few, little",
+    "on" : "ショウ",
+    "kun" : "すく.ない, すこ.し",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "山",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "mountain",
+    "on" : "サン, セン",
+    "kun" : "やま",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "川",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "stream, river",
+    "on" : "セン",
+    "kun" : "かわ",
+    "jlpt" : "N5",
+    "strokes" : 3
+  }, {
+    "char" : "左",
+    "parts" : [ "ノ", "一", "工" ],
+    "recipe" : null,
+    "meaning" : "left",
+    "on" : "サ, シャ",
+    "kun" : "ひだり",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "年",
+    "parts" : [ "ノ", "一", "干", "乞" ],
+    "recipe" : null,
+    "meaning" : "year, counter for years",
+    "on" : "ネン",
+    "kun" : "とし",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "店",
+    "parts" : [ "口", "卜", "广" ],
+    "recipe" : null,
+    "meaning" : "store, shop",
+    "on" : "テン",
+    "kun" : "みせ, たな",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "後",
+    "parts" : [ "夂", "幺", "彳" ],
+    "recipe" : null,
+    "meaning" : "behind, back",
+    "on" : "ゴ, コウ",
+    "kun" : "のち, うし.ろ",
+    "jlpt" : "N5",
+    "strokes" : 9
+  }, {
+    "char" : "手",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "hand",
+    "on" : "シュ, ズ",
+    "kun" : "て, て-",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "新",
+    "parts" : [ "斤", "辛", "并", "木", "立", "亠" ],
+    "recipe" : null,
+    "meaning" : "new",
+    "on" : "シン",
+    "kun" : "あたら.しい, あら.た",
+    "jlpt" : "N5",
+    "strokes" : 13
+  }, {
+    "char" : "日",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "day, sun",
+    "on" : "ニチ, ジツ",
+    "kun" : "ひ, -び",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "明",
+    "parts" : [ "月", "日" ],
+    "recipe" : [ "日", "月" ],
+    "meaning" : "bright, light",
+    "on" : "メイ, ミョウ",
+    "kun" : "あ.かり, あか.るい",
+    "jlpt" : "N4",
+    "strokes" : 8
+  }, {
+    "char" : "時",
+    "parts" : [ "寸", "土", "日" ],
+    "recipe" : [ "日", "寺" ],
+    "meaning" : "time, hour",
+    "on" : "ジ",
+    "kun" : "とき, -どき",
+    "jlpt" : "N5",
+    "strokes" : 10
+  }, {
+    "char" : "書",
+    "parts" : [ "日", "聿" ],
+    "recipe" : null,
+    "meaning" : "write",
+    "on" : "ショ",
+    "kun" : "か.く, -が.き",
+    "jlpt" : "N5",
+    "strokes" : 10
+  }, {
+    "char" : "月",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "month, moon",
+    "on" : "ゲツ, ガツ",
+    "kun" : "つき",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "木",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "tree, wood",
+    "on" : "ボク, モク",
+    "kun" : "き, こ-",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "本",
+    "parts" : [ "一", "木" ],
+    "recipe" : [ "木", "一" ],
+    "meaning" : "book, present",
+    "on" : "ホン",
+    "kun" : "もと",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "来",
+    "parts" : [ "｜", "二", "米", "亠", "木" ],
+    "recipe" : null,
+    "meaning" : "come, due",
+    "on" : "ライ, タイ",
+    "kun" : "く.る, きた.る",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "東",
+    "parts" : [ "｜", "一", "日", "木", "田" ],
+    "recipe" : null,
+    "meaning" : "east",
+    "on" : "トウ",
+    "kun" : "ひがし",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "林",
+    "parts" : [ "木" ],
+    "recipe" : [ "木", "木" ],
+    "meaning" : "grove, forest",
+    "on" : "リン",
+    "kun" : "はやし",
+    "jlpt" : "N4",
+    "strokes" : 8
+  }, {
+    "char" : "校",
+    "parts" : [ "父", "木", "亠" ],
+    "recipe" : null,
+    "meaning" : "exam, school",
+    "on" : "コウ, キョウ",
+    "kun" : "",
+    "jlpt" : "N5",
+    "strokes" : 10
+  }, {
+    "char" : "森",
+    "parts" : [ "木" ],
+    "recipe" : [ "林", "木" ],
+    "meaning" : "forest, woods",
+    "on" : "シン",
+    "kun" : "もり",
+    "jlpt" : "N4",
+    "strokes" : 12
+  }, {
+    "char" : "母",
+    "parts" : [ "毋" ],
+    "recipe" : null,
+    "meaning" : "mother",
+    "on" : "ボ",
+    "kun" : "はは, も",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "毎",
+    "parts" : [ "母", "毋", "乞" ],
+    "recipe" : null,
+    "meaning" : "every",
+    "on" : "マイ",
+    "kun" : "ごと, -ごと.に",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "気",
+    "parts" : [ "气", "丶", "ノ", "乞" ],
+    "recipe" : null,
+    "meaning" : "spirit, mind",
+    "on" : "キ, ケ",
+    "kun" : "いき, き",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "水",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "water",
+    "on" : "スイ",
+    "kun" : "みず, みず-",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "火",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "fire",
+    "on" : "カ",
+    "kun" : "ひ, -び",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "父",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "father",
+    "on" : "フ",
+    "kun" : "ちち",
+    "jlpt" : "N5",
+    "strokes" : 4
+  }, {
+    "char" : "生",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "life, genuine",
+    "on" : "セイ, ショウ",
+    "kun" : "い.きる, い.かす",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "田",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "rice field, rice paddy",
+    "on" : "デン",
+    "kun" : "た",
+    "jlpt" : "N4",
+    "strokes" : 5
+  }, {
+    "char" : "男",
+    "parts" : [ "田", "力" ],
+    "recipe" : [ "田", "力" ],
+    "meaning" : "male",
+    "on" : "ダン, ナン",
+    "kun" : "おとこ, お",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "白",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "white",
+    "on" : "ハク, ビャク",
+    "kun" : "しろ, しら-",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "百",
+    "parts" : [ "一", "白" ],
+    "recipe" : null,
+    "meaning" : "hundred",
+    "on" : "ヒャク, ビャク",
+    "kun" : "もも",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "目",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "eye, class",
+    "on" : "モク, ボク",
+    "kun" : "め, -め",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "社",
+    "parts" : [ "土", "示" ],
+    "recipe" : null,
+    "meaning" : "company, firm",
+    "on" : "シャ",
+    "kun" : "やしろ",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "空",
+    "parts" : [ "穴", "工", "人", "宀" ],
+    "recipe" : null,
+    "meaning" : "empty, sky",
+    "on" : "クウ",
+    "kun" : "そら, あ.く",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "立",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "stand up, rise",
+    "on" : "リツ, リュウ",
+    "kun" : "た.つ, -た.つ",
+    "jlpt" : "N5",
+    "strokes" : 5
+  }, {
+    "char" : "耳",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "ear",
+    "on" : "ジ",
+    "kun" : "みみ",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "聞",
+    "parts" : [ "耳", "門" ],
+    "recipe" : null,
+    "meaning" : "hear, ask",
+    "on" : "ブン, モン",
+    "kun" : "き.く, き.こえる",
+    "jlpt" : "N5",
+    "strokes" : 14
+  }, {
+    "char" : "舌",
+    "parts" : [ "口" ],
+    "recipe" : null,
+    "meaning" : "tongue, reed",
+    "on" : "ゼツ",
+    "kun" : "した",
+    "jlpt" : "N1",
+    "strokes" : 6
+  }, {
+    "char" : "花",
+    "parts" : [ "人", "匕", "草" ],
+    "recipe" : null,
+    "meaning" : "flower",
+    "on" : "カ, ケ",
+    "kun" : "はな",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "行",
+    "parts" : [ "彳" ],
+    "recipe" : null,
+    "meaning" : "going, journey",
+    "on" : "コウ, ギョウ",
+    "kun" : "い.く, ゆ.く",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "西",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "west, Spain",
+    "on" : "セイ, サイ",
+    "kun" : "にし",
+    "jlpt" : "N5",
+    "strokes" : 6
+  }, {
+    "char" : "見",
+    "parts" : [ "目", "人" ],
+    "recipe" : [ "目", "人" ],
+    "meaning" : "see, hopes",
+    "on" : "ケン",
+    "kun" : "み.る, み.える",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "言",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "say, word",
+    "on" : "ゲン, ゴン",
+    "kun" : "い.う, こと",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "話",
+    "parts" : [ "言", "口", "舌" ],
+    "recipe" : [ "言", "舌" ],
+    "meaning" : "tale, talk",
+    "on" : "ワ",
+    "kun" : "はな.す, はなし",
+    "jlpt" : "N5",
+    "strokes" : 13
+  }, {
+    "char" : "語",
+    "parts" : [ "言", "口", "五" ],
+    "recipe" : [ "言", "吾" ],
+    "meaning" : "word, speech",
+    "on" : "ゴ",
+    "kun" : "かた.る, かた.らう",
+    "jlpt" : "N5",
+    "strokes" : 14
+  }, {
+    "char" : "読",
+    "parts" : [ "言", "士", "人", "冖" ],
+    "recipe" : null,
+    "meaning" : "read",
+    "on" : "ドク, トク",
+    "kun" : "よ.む, -よ.み",
+    "jlpt" : "N5",
+    "strokes" : 14
+  }, {
+    "char" : "買",
+    "parts" : [ "貝", "目", "ハ", "網" ],
+    "recipe" : null,
+    "meaning" : "buy",
+    "on" : "バイ",
+    "kun" : "か.う",
+    "jlpt" : "N5",
+    "strokes" : 12
+  }, {
+    "char" : "足",
+    "parts" : [ "口", "止" ],
+    "recipe" : null,
+    "meaning" : "leg, foot",
+    "on" : "ソク",
+    "kun" : "あし, た.りる",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "車",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "car",
+    "on" : "シャ",
+    "kun" : "くるま",
+    "jlpt" : "N5",
+    "strokes" : 7
+  }, {
+    "char" : "週",
+    "parts" : [ "口", "辵", "土", "冂" ],
+    "recipe" : null,
+    "meaning" : "week",
+    "on" : "シュウ",
+    "kun" : "",
+    "jlpt" : "N5",
+    "strokes" : 11
+  }, {
+    "char" : "道",
+    "parts" : [ "辵", "自", "并", "首" ],
+    "recipe" : null,
+    "meaning" : "road-way, street",
+    "on" : "ドウ, トウ",
+    "kun" : "みち, いう",
+    "jlpt" : "N5",
+    "strokes" : 12
+  }, {
+    "char" : "金",
+    "parts" : [ "王", "ハ", "个", "并" ],
+    "recipe" : null,
+    "meaning" : "gold",
+    "on" : "キン, コン",
+    "kun" : "かね, かな-",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "長",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "long, leader",
+    "on" : "チョウ",
+    "kun" : "なが.い, おさ",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "門",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "gate, counter for cannons",
+    "on" : "モン",
+    "kun" : "かど, と",
+    "jlpt" : "N4",
+    "strokes" : 8
+  }, {
+    "char" : "間",
+    "parts" : [ "日", "門" ],
+    "recipe" : [ "門", "日" ],
+    "meaning" : "interval, space",
+    "on" : "カン, ケン",
+    "kun" : "あいだ, ま",
+    "jlpt" : "N5",
+    "strokes" : 12
+  }, {
+    "char" : "雨",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "rain",
+    "on" : "ウ",
+    "kun" : "あめ, あま-",
+    "jlpt" : "N5",
+    "strokes" : 8
+  }, {
+    "char" : "電",
+    "parts" : [ "雨", "田", "乙" ],
+    "recipe" : null,
+    "meaning" : "electricity",
+    "on" : "デン",
+    "kun" : "",
+    "jlpt" : "N5",
+    "strokes" : 13
+  }, {
+    "char" : "食",
+    "parts" : [ ],
+    "recipe" : null,
+    "meaning" : "eat, food",
+    "on" : "ショク, ジキ",
+    "kun" : "く.う, く.らう",
+    "jlpt" : "N5",
+    "strokes" : 9
+  }, {
+    "char" : "飲",
+    "parts" : [ "欠", "食" ],
+    "recipe" : null,
+    "meaning" : "drink, smoke",
+    "on" : "イン, オン",
+    "kun" : "の.む, -の.み",
+    "jlpt" : "N5",
+    "strokes" : 12
+  }, {
+    "char" : "駅",
+    "parts" : [ "馬", "尸", "火", "丶" ],
+    "recipe" : null,
+    "meaning" : "station",
+    "on" : "エキ",
+    "kun" : "",
+    "jlpt" : "N5",
+    "strokes" : 14
+  }, {
+    "char" : "高",
+    "parts" : [ "口", "亠", "冂" ],
+    "recipe" : null,
+    "meaning" : "tall, high",
+    "on" : "コウ",
+    "kun" : "たか.い, たか",
+    "jlpt" : "N5",
+    "strokes" : 10
+  }, {
+    "char" : "魚",
+    "parts" : [ "田", "火" ],
+    "recipe" : null,
+    "meaning" : "fish",
+    "on" : "ギョ",
+    "kun" : "うお, さかな",
+    "jlpt" : "N5",
+    "strokes" : 11
+  } ],
+  "words" : [ {
+    "word" : "明日",
+    "parts" : [ "明", "日" ],
+    "reading" : "あした",
+    "meaning" : "tomorrow",
+    "jlpt" : "N5"
+  }, {
+    "word" : "日本",
+    "parts" : [ "日", "本" ],
+    "reading" : "にほん",
+    "meaning" : "Japan",
+    "jlpt" : "N5"
+  }, {
+    "word" : "女子",
+    "parts" : [ "女", "子" ],
+    "reading" : "じょし",
+    "meaning" : "woman",
+    "jlpt" : "N5"
+  }, {
+    "word" : "休日",
+    "parts" : [ "休", "日" ],
+    "reading" : "きゅうじつ",
+    "meaning" : "holiday",
+    "jlpt" : "N5"
+  }, {
+    "word" : "男女",
+    "parts" : [ "男", "女" ],
+    "reading" : "だんじょ",
+    "meaning" : "men and women",
+    "jlpt" : "N5"
+  }, {
+    "word" : "火山",
+    "parts" : [ "火", "山" ],
+    "reading" : "かざん",
+    "meaning" : "volcano",
+    "jlpt" : "N5"
+  }, {
+    "word" : "時間",
+    "parts" : [ "時", "間" ],
+    "reading" : "じかん",
+    "meaning" : "time",
+    "jlpt" : "N5"
+  }, {
+    "word" : "今日",
+    "parts" : [ "今", "日" ],
+    "reading" : "きょう",
+    "meaning" : "today",
+    "jlpt" : "N5"
+  }, {
+    "word" : "日本語",
+    "parts" : [ "日", "本", "語" ],
+    "reading" : "にほんご",
+    "meaning" : "Japanese (language)",
+    "jlpt" : "N5"
+  }, {
+    "word" : "学校",
+    "parts" : [ "学", "校" ],
+    "reading" : "がっこう",
+    "meaning" : "school",
+    "jlpt" : "N5"
+  }, {
+    "word" : "先生",
+    "parts" : [ "先", "生" ],
+    "reading" : "せんせい",
+    "meaning" : "teacher",
+    "jlpt" : "N5"
+  }, {
+    "word" : "毎日",
+    "parts" : [ "毎", "日" ],
+    "reading" : "まいにち",
+    "meaning" : "every day",
+    "jlpt" : "N5"
+  }, {
+    "word" : "友人",
+    "parts" : [ "友", "人" ],
+    "reading" : "ゆうじん",
+    "meaning" : "friend",
+    "jlpt" : "N5"
+  }, {
+    "word" : "電車",
+    "parts" : [ "電", "車" ],
+    "reading" : "でんしゃ",
+    "meaning" : "train",
+    "jlpt" : "N5"
+  } ]
+}

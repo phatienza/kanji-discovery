@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE JMdict [
+  <!ELEMENT JMdict (entry*)>
+  <!ELEMENT entry (ent_seq, k_ele*, r_ele+, sense+)>
+  <!ELEMENT ent_seq (#PCDATA)>
+  <!ELEMENT k_ele (keb, ke_pri*)>
+  <!ELEMENT keb (#PCDATA)>
+  <!ELEMENT ke_pri (#PCDATA)>
+  <!ELEMENT r_ele (reb, re_restr*, re_pri*)>
+  <!ELEMENT reb (#PCDATA)>
+  <!ELEMENT re_restr (#PCDATA)>
+  <!ELEMENT re_pri (#PCDATA)>
+  <!ELEMENT sense (gloss+)>
+  <!ELEMENT gloss (#PCDATA)>
+]>
+<JMdict>
+  <entry>
+    <ent_seq>1000001</ent_seq>
+    <k_ele><keb>明日</keb><ke_pri>ichi1</ke_pri></k_ele>
+    <r_ele><reb>みょうにち</reb><re_restr>明日</re_restr></r_ele>
+    <r_ele><reb>あした</reb><re_restr>明日</re_restr><re_pri>ichi1</re_pri></r_ele>
+    <sense><gloss>tomorrow</gloss></sense>
+  </entry>
+  <entry>
+    <ent_seq>1000002</ent_seq>
+    <k_ele><keb>珍語</keb></k_ele>
+    <r_ele><reb>ちんご</reb></r_ele>
+    <sense><gloss>rare expression</gloss></sense>
+  </entry>
+</JMdict>
