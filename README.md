@@ -1,6 +1,10 @@
 # Kanji Discovery
 
-Kanji Discovery is a kanji learning project centered on finding, combining, and disassembling real kanji components. This repository currently implements **Phase 1 only**: the offline Java data pipeline and N5 scene validator.
+Kanji Discovery is a kanji learning tool built around discovery rather than memorization. Learners find primitive components in themed scenes, combine them into real kanji and words, and disassemble kanji to understand their parts.
+
+## Project status
+
+Phase 1 is implemented: the offline Java pipeline parses the source datasets, generates the N5 world data, copies the required KanjiVG assets, and validates the scene ladder. The React PWA and workbook generator belong to later reviewed phases and are not implemented yet.
 
 ## Phase 1 prerequisites
 
@@ -10,7 +14,7 @@ Kanji Discovery is a kanji learning project centered on finding, combining, and 
 
 ## Source data
 
-Raw upstream data is intentionally excluded from version control. Download the checksum-pinned snapshots:
+Raw upstream data is intentionally excluded from version control. The `data/raw/` directory is ignored by Git. Download the checksum-pinned snapshots:
 
 ```bash
 ./scripts/download-sources.sh
@@ -53,6 +57,18 @@ mvn -pl pipeline exec:java -Dexec.args="validate ."
 - `data/n5.json`: 103 target N5 kanji plus scene support kanji, approximately 200 common components, and common JMdict-validated words.
 - `app/public/assets/kanjivg/n5/`: per-kanji SVGs required by the future Phase 2 web app. No frontend code is part of Phase 1.
 
-## Attribution
+## Development workflow
+
+- `main` contains reviewed milestones.
+- Development work is committed to `develop`.
+- Changes are reviewed in a pull request before `develop` is merged into `main`.
+
+## License
+
+Original Kanji Discovery source code and documentation are available under the [MIT License](LICENSE).
+
+Dictionary-derived data and copied stroke assets are not relicensed under MIT. KANJIDIC2, KRADFILE, and JMdict-derived material remains subject to the EDRDG Creative Commons Attribution-ShareAlike 4.0 terms. KanjiVG SVGs remain subject to Creative Commons Attribution-ShareAlike 3.0. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for attribution and license details.
+
+## Data attribution
 
 This project uses KANJIDIC2, KRADFILE, and JMdict from the [Electronic Dictionary Research and Development Group](https://www.edrdg.org/), and SVG stroke data from [KanjiVG](https://kanjivg.tagaini.net/). See `THIRD_PARTY_NOTICES.md` for license details. Retain attribution when redistributing generated JSON, worksheets, or application assets.
