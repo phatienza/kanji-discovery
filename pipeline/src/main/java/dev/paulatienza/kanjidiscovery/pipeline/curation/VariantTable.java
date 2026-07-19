@@ -30,6 +30,10 @@ public final class VariantTable {
             if (columns.length != 4 || columns[0].isBlank() || columns[1].isBlank()) {
                 throw new IOException("Malformed variant row " + (index + 1) + ": " + line);
             }
+            if (!"CONFIRMED".equals(columns[2])) {
+                throw new IOException("Unreviewed variant row " + (index + 1)
+                        + " has status " + columns[2] + ": " + columns[0]);
+            }
             if (variants.putIfAbsent(columns[0], columns[1]) != null) {
                 throw new IOException("Duplicate radical variant at row " + (index + 1) + ": " + columns[0]);
             }

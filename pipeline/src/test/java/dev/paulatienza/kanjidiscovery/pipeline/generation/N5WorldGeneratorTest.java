@@ -31,6 +31,10 @@ class N5WorldGeneratorTest {
         assertEquals(List.of("田", "力"), kanji.get("男").recipe());
         assertEquals(List.of("人", "木"), kanji.get("休").recipe());
         assertEquals(List.of("人", "木"), kanji.get("休").parts());
+        assertEquals(List.of("目", "儿"), kanji.get("見").parts());
+        assertTrue(kanji.get("買").parts().contains("网"));
+        assertTrue(kanji.get("週").parts().contains("辶"));
+        assertEquals(List.of("田", "灬"), kanji.get("魚").parts());
         assertTrue(world.words().stream().anyMatch(word -> word.word().equals("日本語")));
     }
 }

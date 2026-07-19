@@ -47,7 +47,7 @@ mvn -pl pipeline exec:java -Dexec.args="validate ."
 
 ## Curation inputs
 
-- `curation/radical-variants.tsv` normalizes component variants and KRADFILE placeholders. Rows marked `TODO` require owner review.
+- `curation/radical-variants.tsv` normalizes component variants and KRADFILE placeholders. Every active row must be `CONFIRMED`; the pipeline rejects unresolved mappings.
 - `curation/n5-recipes.tsv` keeps game recipes separate from factual KRADFILE `parts`.
 - `scenes/n5-scenes.json` is the hand-curated game overlay.
 - `scenes/n5-scenes.review.md` lists every scene assignment currently considered uncertain.
