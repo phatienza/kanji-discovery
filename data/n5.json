@@ -12,12 +12,6 @@
     "kun" : "くち",
     "strokes" : 3
   }, {
-    "char" : "人",
-    "meaning" : "person",
-    "on" : "ジン, ニン",
-    "kun" : "ひと, -り",
-    "strokes" : 2
-  }, {
     "char" : "ノ",
     "meaning" : "",
     "on" : "",
@@ -46,6 +40,12 @@
     "meaning" : "two, two radical (no. 7)",
     "on" : "ニ, ジ",
     "kun" : "ふた, ふた.つ",
+    "strokes" : 2
+  }, {
+    "char" : "人",
+    "meaning" : "person",
+    "on" : "ジン, ニン",
+    "kun" : "ひと, -り",
     "strokes" : 2
   }, {
     "char" : "小",
@@ -144,6 +144,12 @@
     "kun" : "また, また-",
     "strokes" : 2
   }, {
+    "char" : "儿",
+    "meaning" : "legs radical (no. 10)",
+    "on" : "ジン, ニン",
+    "kun" : "がい",
+    "strokes" : 2
+  }, {
     "char" : "幺",
     "meaning" : "short thread radical (no. 52)",
     "on" : "ヨウ",
@@ -222,12 +228,6 @@
     "kun" : "",
     "strokes" : 2
   }, {
-    "char" : "火",
-    "meaning" : "fire",
-    "on" : "カ",
-    "kun" : "ひ, -び",
-    "strokes" : 4
-  }, {
     "char" : "立",
     "meaning" : "stand up, rise",
     "on" : "リツ, リュウ",
@@ -246,11 +246,11 @@
     "kun" : "かたしろ",
     "strokes" : 3
   }, {
-    "char" : "辵",
+    "char" : "辶",
     "meaning" : "walk, walking",
     "on" : "チャク",
     "kun" : "",
-    "strokes" : 7
+    "strokes" : 4
   }, {
     "char" : "匕",
     "meaning" : "spoon, spoon or katakana hi radical (no. 21)",
@@ -287,6 +287,12 @@
     "on" : "スン",
     "kun" : "",
     "strokes" : 3
+  }, {
+    "char" : "灬",
+    "meaning" : "fire, fire radical (no. 86)",
+    "on" : "ヒョウ, カ",
+    "kun" : "",
+    "strokes" : 4
   }, {
     "char" : "攵",
     "meaning" : "strike, hit",
@@ -486,11 +492,11 @@
     "kun" : "こ, -こ",
     "strokes" : 3
   }, {
-    "char" : "網",
-    "meaning" : "netting, network",
-    "on" : "モウ",
+    "char" : "网",
+    "meaning" : "net, net or net crown radical (no. 122)",
+    "on" : "モウ, ボウ",
     "kun" : "あみ",
-    "strokes" : 14
+    "strokes" : 6
   }, {
     "char" : "囗",
     "meaning" : "box, box or enclosure radical (no. 31)",
@@ -538,6 +544,12 @@
     "meaning" : "lack, gap",
     "on" : "ケツ, ケン",
     "kun" : "か.ける, か.く",
+    "strokes" : 4
+  }, {
+    "char" : "火",
+    "meaning" : "fire",
+    "on" : "カ",
+    "kun" : "ひ, -び",
     "strokes" : 4
   }, {
     "char" : "里",
@@ -1188,18 +1200,6 @@
     "kun" : "いき",
     "strokes" : 4
   }, {
-    "char" : "瓜",
-    "meaning" : "melon",
-    "on" : "カ, ケ",
-    "kun" : "うり",
-    "strokes" : 6
-  }, {
-    "char" : "缶",
-    "meaning" : "tin can, container",
-    "on" : "カン",
-    "kun" : "かま",
-    "strokes" : 6
-  }, {
     "char" : "首",
     "meaning" : "neck, counter for songs and poems",
     "on" : "シュ",
@@ -1361,7 +1361,7 @@
     "strokes" : 7
   }, {
     "char" : "先",
-    "parts" : [ "ノ", "土", "人" ],
+    "parts" : [ "ノ", "土", "儿" ],
     "recipe" : null,
     "meaning" : "before, ahead",
     "on" : "セン",
@@ -1550,7 +1550,7 @@
     "strokes" : 7
   }, {
     "char" : "四",
-    "parts" : [ "人", "囗" ],
+    "parts" : [ "儿", "囗" ],
     "recipe" : null,
     "meaning" : "four",
     "on" : "シ",
@@ -1982,7 +1982,7 @@
     "strokes" : 7
   }, {
     "char" : "空",
-    "parts" : [ "穴", "工", "人", "宀" ],
+    "parts" : [ "穴", "工", "儿", "宀" ],
     "recipe" : null,
     "meaning" : "empty, sky",
     "on" : "クウ",
@@ -2054,7 +2054,7 @@
     "strokes" : 6
   }, {
     "char" : "見",
-    "parts" : [ "目", "人" ],
+    "parts" : [ "目", "儿" ],
     "recipe" : [ "目", "人" ],
     "meaning" : "see, hopes",
     "on" : "ケン",
@@ -2090,7 +2090,7 @@
     "strokes" : 14
   }, {
     "char" : "読",
-    "parts" : [ "言", "士", "人", "冖" ],
+    "parts" : [ "言", "士", "儿", "冖" ],
     "recipe" : null,
     "meaning" : "read",
     "on" : "ドク, トク",
@@ -2099,7 +2099,7 @@
     "strokes" : 14
   }, {
     "char" : "買",
-    "parts" : [ "貝", "目", "ハ", "網" ],
+    "parts" : [ "貝", "目", "ハ", "网" ],
     "recipe" : null,
     "meaning" : "buy",
     "on" : "バイ",
@@ -2126,7 +2126,7 @@
     "strokes" : 7
   }, {
     "char" : "週",
-    "parts" : [ "口", "辵", "土", "冂" ],
+    "parts" : [ "口", "辶", "土", "冂" ],
     "recipe" : null,
     "meaning" : "week",
     "on" : "シュウ",
@@ -2135,7 +2135,7 @@
     "strokes" : 11
   }, {
     "char" : "道",
-    "parts" : [ "辵", "自", "并", "首" ],
+    "parts" : [ "辶", "自", "并", "首" ],
     "recipe" : null,
     "meaning" : "road-way, street",
     "on" : "ドウ, トウ",
@@ -2216,7 +2216,7 @@
     "strokes" : 12
   }, {
     "char" : "駅",
-    "parts" : [ "馬", "尸", "火", "丶" ],
+    "parts" : [ "馬", "尸", "灬", "丶" ],
     "recipe" : null,
     "meaning" : "station",
     "on" : "エキ",
@@ -2234,7 +2234,7 @@
     "strokes" : 10
   }, {
     "char" : "魚",
-    "parts" : [ "田", "火" ],
+    "parts" : [ "田", "灬" ],
     "recipe" : null,
     "meaning" : "fish",
     "on" : "ギョ",

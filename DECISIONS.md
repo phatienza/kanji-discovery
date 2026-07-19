@@ -11,3 +11,4 @@
 - 2026-07-15: Preserve source legacy levels on support kanji with the explicit mapping 3 to N4, 2 to N2, and 1 to N1; do not invent an N3 classification from a source that predates the modern five-level JLPT.
 - 2026-07-15: Use `main` for reviewed milestones and `develop` for incoming work so the solo maintainer can practice pull-request review before merging.
 - 2026-07-15: License original project code and documentation under MIT while retaining the applicable EDRDG CC BY-SA 4.0 and KanjiVG CC BY-SA 3.0 terms for derived data and copied assets.
+- 2026-07-19: Keep factual component shapes distinct from crafting semantics: retain `儿` as legs, normalize KRADFILE `杰` to `灬` and `込` to `辶`, use `网` for the net radical, and reserve semantic substitutions such as `火` for explicitly curated recipes.

@@ -3,22 +3,36 @@ package dev.paulatienza.kanjidiscovery.pipeline.curation;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class VariantTableTest {
     @Test
     void normalizesUnicodeAndKradfilePersonVariants(@TempDir Path tempDir) throws Exception {
         Path table = tempDir.resolve("variants.tsv");
-        Files.writeString(table, "variant\tcanonical\tstatus\tnote\n亻\t人\tCONFIRMED\tunicode\n化\t人\tTODO\tkrad placeholder\n");
+        Files.writeString(table, "variant\tcanonical\tstatus\tnote\n亻\t人\tCONFIRMED\tunicode\n化\t人\tCONFIRMED\tkrad placeholder\n");
 
         VariantTable variants = VariantTable.load(table);
 
         assertEquals("人", variants.canonicalize("亻"));
         assertEquals("人", variants.canonicalize("化"));
         assertEquals("木", variants.canonicalize("木"));
+    }
+
+    @Test
+    void rejectsUnreviewedVariantMappings(@TempDir Path tempDir) throws Exception {
+        Path table = tempDir.resolve("variants.tsv");
+        Files.writeString(table,
+                "variant\tcanonical\tstatus\tnote\n化\t人\tTODO\tawaiting review\n");
+
+        IOException exception = assertThrows(IOException.class, () -> VariantTable.load(table));
+
+        assertTrue(exception.getMessage().contains("Unreviewed variant row"));
     }
 
     @Test

@@ -1,29 +1,26 @@
 variant	canonical	status	note
 亻	人	CONFIRMED	Unicode person-side radical
-化	人	TODO	KRADFILE U+2E85 placeholder; required for 休 = 人 + 木
-儿	人	TODO	Pedagogical normalization of legs/person in 見; verify before art or workbook use
+化	人	CONFIRMED	KRADFILE U+2E85 placeholder; required for 休 = 人 + 木
 氵	水	CONFIRMED	Unicode water-side radical
-汁	水	TODO	KRADFILE U+2EA1 placeholder for the water radical
+汁	水	CONFIRMED	KRADFILE U+2EA1 placeholder for the water radical
 忄	心	CONFIRMED	Unicode heart-side radical
-忙	心	TODO	KRADFILE U+2E96 placeholder for the heart-side radical
+忙	心	CONFIRMED	KRADFILE U+2E96 placeholder for the heart-side radical
 扌	手	CONFIRMED	Unicode hand-side radical
-扎	手	TODO	KRADFILE U+2E98 placeholder for the hand-side radical
+扎	手	CONFIRMED	KRADFILE U+2E98 placeholder for the hand-side radical
 犭	犬	CONFIRMED	Unicode dog-side radical
-犯	犬	TODO	KRADFILE U+2EA8 placeholder for the dog-side radical
+犯	犬	CONFIRMED	KRADFILE U+2EA8 placeholder for the dog-side radical
 刂	刀	CONFIRMED	Unicode standing-knife radical
-刈	刀	TODO	KRADFILE U+2E89 placeholder for the standing-knife radical
-灬	火	CONFIRMED	Unicode fire-bottom radical
-杰	火	TODO	KRADFILE U+2EA3 placeholder for the fire-bottom radical
+刈	刀	CONFIRMED	KRADFILE U+2E89 placeholder for the standing-knife radical
+杰	灬	CONFIRMED	KRADFILE U+2EA3 placeholder normalized to visible four-dot bottom; recipe decides fire semantics
 礻	示	CONFIRMED	Unicode spirit-side radical
-礼	示	TODO	KRADFILE U+2EAD placeholder for the spirit-side radical
+礼	示	CONFIRMED	KRADFILE U+2EAD placeholder for the spirit-side radical
 衤	衣	CONFIRMED	Unicode clothing-side radical
-初	衣	TODO	KRADFILE U+2EC2 placeholder for the clothing-side radical
+初	衣	CONFIRMED	KRADFILE U+2EC2 placeholder for the clothing-side radical
 艹	草	CONFIRMED	Unicode grass-top radical represented pedagogically as 草
-艾	草	TODO	KRADFILE U+2EBE placeholder for the grass-top radical
-罒	網	TODO	Unicode net-top radical; canonical choice 網 versus 网 needs curation
-買	網	TODO	KRADFILE U+2EB2 placeholder for the net-top radical
-辶	辵	TODO	Unicode walk radical; canonical display character needs curation
-込	辵	TODO	KRADFILE U+2ECC placeholder for the walk radical
-邦	邑	TODO	KRADFILE U+2ECF city radical on the right
-阡	阜	TODO	KRADFILE U+2ED6 mound radical on the left
-尚	小	TODO	KRADFILE U+2E8C small-top radical
+艾	草	CONFIRMED	KRADFILE U+2EBE placeholder for the grass-top radical
+罒	网	CONFIRMED	Unicode net-top variant normalized to radical 122
+買	网	CONFIRMED	KRADFILE U+2EB2 placeholder for the net-top radical
+込	辶	CONFIRMED	KRADFILE U+2ECC placeholder normalized to visible Japanese walk radical
+邦	邑	CONFIRMED	KRADFILE U+2ECF city radical on the right
+阡	阜	CONFIRMED	KRADFILE U+2ED6 mound radical on the left
+尚	小	CONFIRMED	KRADFILE U+2E8C small-top radical
